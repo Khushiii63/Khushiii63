@@ -1,16 +1,22 @@
-## Hi there 👋
+#Hi, I'm Khushi
+---
+🎓 BSc Cybersecurity & Networks Student @ UEL  
+🔐 Aspiring Penetration Tester  
+📍 London, UK  
+---
+## 🚀 About Me
+Currently learning Networking, Linux & Security Fundamentals
+Hands-on with Cisco Packet Tracer, Wireshark & Nmap
+Building practical cybersecurity and networking projects
 
-<!--
-**Khushiii63/Khushiii63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+Networking (IP Addressing, Subnetting, VLSM)
+Linux Basics
+SQL & Databases
+Cybersecurity Fundamentals
 
-Here are some ideas to get you started:
+## 📂 Projects
+Coming soon... 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+LinkedIn: linkedin.com/in/khushi-shrestha-3a6589363
