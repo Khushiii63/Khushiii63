@@ -5,15 +5,15 @@
 📍 London, UK  
 ---
 ## 🚀 About Me
-Currently learning Networking, Linux & Security Fundamentals
-Hands-on with Cisco Packet Tracer, Wireshark & Nmap
-Building practical cybersecurity and networking projects
+- Currently learning Networking, Linux & Security Fundamentals
+- Hands-on with Cisco Packet Tracer, Wireshark & Nmap
+- Building practical cybersecurity and networking projects
 
 ## 🛠️ Skills
-Networking (IP Addressing, Subnetting, VLSM)
-Linux Basics
-SQL & Databases
-Cybersecurity Fundamentals
+- Networking (IP Addressing, Subnetting, VLSM)
+- Linux Basics
+- SQL & Databases
+- Cybersecurity Fundamentals
 
 ## 📂 Projects
 Coming soon... 🚀
